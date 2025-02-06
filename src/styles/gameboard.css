@@ -40,3 +40,14 @@
 .game-over button:hover {
     background-color: #FF3311; /* Cambia de color al pasar el mouse */
 }
+.counter {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    color: darkgrey;
+    padding: 8px 12px;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: bold;
+    z-index: 1000;
+}

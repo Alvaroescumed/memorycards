@@ -1,0 +1,17 @@
+[
+    { "name": "A", "color": "#FF5733" },
+    { "name": "B", "color": "#33FF57" },
+    { "name": "C", "color": "#3357FF" },
+    { "name": "D", "color": "#F1C40F" },
+    { "name": "E", "color": "#8E44AD" },
+    { "name": "F", "color": "#E74C3C" },
+    { "name": "G", "color": "#2ECC71" },
+    { "name": "H", "color": "#3498DB" },
+    { "name": "I", "color": "#1ABC9C" },
+    { "name": "J", "color": "#F39C12" },
+    { "name": "K", "color": "#D35400" },
+    { "name": "L", "color": "#C0392B" },
+    { "name": "M", "color": "#7D3C98" },
+    { "name": "N", "color": "#5DADE2" },
+    { "name": "O", "color": "#58D68D" }
+]
